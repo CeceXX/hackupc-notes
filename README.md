@@ -2,8 +2,7 @@
 
 ### Git workshop
 
-Collaboration tool
-Created by the same guy who created Linus
+Collaboration tool. Created by the same guy who made Linux.
 
 **git init** = start an empty repo with no commits
 
@@ -11,6 +10,7 @@ git stores code online so you can store code online. Whenever you are ready push
 
 PC1 starts a repo and uploads it on GitHub. Everyone else downloads it and makes change through git clone, git add, git commit, git push.
 
+## Git status, add, push
 *git status* tells you about the status of your branch
 *git add* adds files to the commit
 *git push* uploads changes to the server
