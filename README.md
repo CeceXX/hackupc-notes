@@ -14,3 +14,5 @@ PC1 starts a repo and uploads it on GitHub. Everyone else downloads it and makes
 *git status* tells you about the status of your branch
 *git add* adds files to the commit
 *git push* uploads changes to the server
+
+The big problem is when you push code but somebody else edited the same file in the past.
