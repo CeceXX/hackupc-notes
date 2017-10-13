@@ -2,7 +2,7 @@
 
 Collaboration tool. Created by the same guy who made Linux.
 
-## Git init
+## Git init, clone
 **git init** = start an empty repo with no commits
 
 git stores code online so you can store code online. Whenever you are ready push code to the server (can be *GitHub*)
@@ -14,4 +14,6 @@ PC1 starts a repo and uploads it on GitHub. Everyone else downloads it and makes
 *git add* adds files to the commit
 *git push* uploads changes to the server
 
-The big problem is when you push code but somebody else edited the same file in the past.
+## Resolving conflicts
+The big problem is when you push code but somebody else edited the same file in the past. You can fix this by making changes in the code.
+
